@@ -165,7 +165,6 @@ th, td {
   background-color: #ffffff;
   margin:auto;
   display: grid;
-  border-radius: 15px;
   transform: translate(0%,-190%);
   -ms-transform: translate(0%,-190%);
 }
